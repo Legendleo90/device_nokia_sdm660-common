@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "crdroidandroid/proprietary_vendor_nokia_PL2",
+    "target_path": "vendor/nokia/PL2"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_nokia_sdm660-common",
+    "target_path": "vendor/nokia/sdm660-common"
+  },
+  {
+    "repository": "crdroidandroid/android_kernel_nokia_sdm660",
+    "target_path": "kernel/nokia/sdm660"
+  }
+]
